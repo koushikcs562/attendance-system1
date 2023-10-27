@@ -1,0 +1,19 @@
+<head>
+    <title>Attendance System</title>
+    <style>
+        /* Custom CSS styles for the success message */
+        .success-message {
+            background-color: #4CAF50; /* Green background color */
+            color: white; /* White text color */
+            padding: 10px; /* Add some padding for spacing */
+            border-radius: 5px; /* Rounded corners */
+            display: flex; /* Align the icon and message horizontally */
+            align-items: center; /* Center content vertically */
+        }
+
+        .success-icon {
+            font-size: 24px; /* Adjust the font size of the tick mark */
+            margin-right: 10px; /* Add some spacing between the icon and message */
+        }
+    </style>
+</head>
