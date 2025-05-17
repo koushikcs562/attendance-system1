@@ -75,9 +75,6 @@ This is a web-based attendance system that utilizes face recognition technology 
 * **Improved Face Detection and Recognition Accuracy:** Experiment with more advanced face detection algorithms and potentially other machine learning models.
 * **Cloud Deployment:** Deploy the application to a cloud platform for wider accessibility.
 
-## Contributing
-
-[Add information about how others can contribute to your project if you plan to open-source it.]
 
 ## Contact
 
